@@ -1,0 +1,12 @@
+{
+  "description": "Split resource usage into individual fields",
+  "processors": [
+    {
+      "csv": {
+        "field": "data",
+          "target_fields": ["code", "description", "perinatal", "pediatric", "maternity", "adult", "femalesOnly", "malesOnly", "poaExempt", "noPrincipal", "vcdp"],
+        "separator": ","
+      }
+    }
+  ]
+}

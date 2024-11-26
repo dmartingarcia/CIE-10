@@ -1,0 +1,22 @@
+{
+  "docs": [
+    {
+      "_index": "testindex1",
+      "_id": "1",
+      "_source": {
+        "data": "A90,Fiebre del dengue [dengue clásico],,,,,,,,,",
+        "code": "A90",
+        "description": "10",
+        "perinatal": "",
+        "pediatric": "",
+        "maternity": "",
+        "adult": "",
+        "femalesOnly": "",
+        "malesOnly": "",
+        "poaExempt": "",
+        "noPrincipal": "",
+        "vcdp": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+services:
+  app:
+    build:
+      dockerfile: Dockerfile
+      target: base-image
+    volumes:
+      - ./:/app
+  opensearch:
+    image: opensearchproject/opensearch:2.18.0
+    environment:
+      - OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m  # minimum and maximum Java heap size, recommend setting both to 50% of system RAM
+      - OPENSEARCH_INITIAL_ADMIN_PASSWORD=administro
+      - discovery.type=single-node
+      - "DISABLE_SECURITY_PLUGIN=true" # Disables Security plugin
+      - "DISABLE_INSTALL_DEMO_CONFIG=true" # Prevents execution of bundled demo script which installs demo certificates and security configurations to OpenSearch
+    volumes:
+      - ./config/opensearch.yml:/usr/share/opensearch/config/opensearch.yml
+    ports:
+      - 9200:9200
+      - 9600:9600
+    restart: always
+
+  opensearch-dashboards:
+    image: opensearchproject/opensearch-dashboards:2.18.0
+    ports:
+      - 5601:5601
+    environment:
+      OPENSEARCH_HOSTS: '["http://opensearch-node1:9200"]'
+      DISABLE_SECURITY_DASHBOARDS_PLUGIN: "true" # disables security dashboards plugin in OpenSearch Dashboards
+    links:
+      - opensearch:opensearch-node1
+volumes:
+  opensearch-data1:
