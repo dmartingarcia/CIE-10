@@ -1,0 +1,101 @@
+ID,Diagnóstico,Especialidad,CIE-10
+1,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+2,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+3,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+4,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+5,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+6,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+7,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+8,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+9,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+10,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+11,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+12,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+13,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+14,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+15,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+16,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+17,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+18,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+19,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+20,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+21,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+22,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+23,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+24,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+25,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+26,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+27,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+28,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+29,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+30,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+31,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+32,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+33,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+34,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+35,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+36,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+37,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+38,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+39,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+40,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+41,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+42,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+43,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+44,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+45,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+46,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+47,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+48,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+49,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+50,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+51,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+52,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+53,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+54,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+55,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+56,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+57,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+58,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+59,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+60,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+61,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+62,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+63,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+64,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+65,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+66,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+67,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+68,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+69,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+70,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+71,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+72,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+73,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+74,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+75,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+76,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+77,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+78,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+79,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+80,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+81,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+82,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+83,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+84,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+85,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+86,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+87,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+88,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+89,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+90,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
+91,Mujer de 32 años con disuria y urgencia miccional. Urocultivo positivo para *Escherichia coli*. Diagnóstico de infección urinaria baja.,Urología,N30.0
+92,Paciente masculino de 60 años con pérdida progresiva de fuerza en extremidades inferiores. Resonancia magnética muestra signos de estenosis de canal lumbar.,Neurocirugía,M48.0
+93,"Niño de 8 años con fiebre persistente de 39°C, exantema maculopapular generalizado y conjuntivitis no purulenta. Antecedente de contacto con caso confirmado de sarampión.",Pediatría,B05.9
+94,"Mujer de 29 años con antecedentes de ansiedad, refiere insomnio persistente y crisis de pánico recurrentes. Se inicia manejo con psicoterapia y ansiolíticos.",Psiquiatría,F41.0
+95,Paciente masculino de 65 años con tos crónica y expectoración mucopurulenta. Historia de tabaquismo severo. Radiografía de tórax muestra hiperinsuflación pulmonar.,Neumología,J44.9
+96,"Paciente femenina de 50 años refiere dolor abdominal en cuadrante superior derecho, náuseas y vómitos. Ecografía muestra litiasis vesicular.",Gastroenterología,K80.2
+97,Hombre de 25 años con herida cortante en el antebrazo derecho tras accidente laboral. Se realiza limpieza quirúrgica y sutura.,Cirugía,T79.8
+98,Paciente masculino de 72 años con hematuria indolora. Urotomografía evidencia masa sólida en riñón derecho compatible con carcinoma renal.,Oncología médica,C64.9
+99,Mujer de 40 años con visión borrosa progresiva en ojo izquierdo. Fondo de ojo revela edema macular asociado a retinopatía diabética.,Oftalmología,H36.0
+100,Paciente masculino de 45 años con dolor torácico opresivo irradiado al brazo izquierdo desde hace 2 horas. ECG muestra elevación del ST en derivaciones anteriores. Enzimas cardíacas elevadas.,Cardiología,I21.0
